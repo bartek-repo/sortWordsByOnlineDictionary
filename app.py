@@ -3,7 +3,7 @@ import queue
 import requests
 from bs4 import BeautifulSoup
 
-path = r"C:\Users\barte\OneDrive\Pulpit\B1 Vocabulary List – Part 1.txt"
+path = r"B1 Vocabulary List – Part 1.txt"
 dictionary_url = "https://www.dictionary.com/browse/"
 dictionary = {}
 list_sorted_words = list()
